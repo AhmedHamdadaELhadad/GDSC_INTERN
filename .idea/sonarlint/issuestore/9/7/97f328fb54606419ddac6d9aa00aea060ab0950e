@@ -1,0 +1,13 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å˜õşÿÿÿÿ8»´”ğ1J$2e7c8782-e756-4b18-8c30-2ceb9c19c9ea
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ ¡Ğ8»´”ğ1J$32c3d486-2d5a-4857-a5ba-ea6f88288812
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(“ÈÙ±şÿÿÿÿ8 œ·”ğ1J$1ca6cef8-054a-426a-81db-61886fb3f110
+k
+java:S1481	"(Remove this unused "age" local variable.(¯Ó¶»8Å´”ğ1J$fd8982e3-1106-4bef-a164-4657a59cb7ce
+t
+java:S1481
+",Remove this unused "running" local variable.(Îªàğüÿÿÿÿ8Æ´”ğ1J$c4dc27f3-fe37-47d2-9674-6f618e03cf31
+l
+java:S1481")Remove this unused "city" local variable.(ù¥Á«8Æ´”ğ1J$9af8c6f6-8868-4551-8816-610043034b8e
+n
+java:S1481"+Remove this unused "height" local variable.(Ü¿Õ±8Æ´”ğ1J$0042ef70-fa46-40f7-a034-7d850720e6ce

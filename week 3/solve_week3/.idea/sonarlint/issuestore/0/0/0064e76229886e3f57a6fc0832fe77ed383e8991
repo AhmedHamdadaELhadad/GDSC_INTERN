@@ -1,0 +1,21 @@
+
+s	java:S135#"YReduce the total number of break and continue statements in this loop to use at most one.(ØŒÆ¤úÿÿÿÿ
+w
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "size".(ÆØÃıÿÿÿÿ
+r
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "find".(î‘ˆÿ
+Y
+java:S2589;"7Remove this expression which always evaluates to "true"(Ğ÷²»ùÿÿÿÿ8¨Ãâœï1
+5
+java:S2326"frsit is not used in the class.(­Ş¯Á
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(­Ş¯Á
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÖŞĞ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(èÇÑ0
+E
+java:S1197"*Move the array designators [] to the type.(İò»¤ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¡œùÿÿÿÿ
+1
+java:S3626."Remove this redundant jump.(ÉŠ©ƒ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ãîĞ±
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ö´ë„üÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(âŒ§?
