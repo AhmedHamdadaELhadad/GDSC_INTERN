@@ -1,0 +1,8 @@
+
+m	java:S1065"+Replace this use of System.out by a logger.(´òÚ¾8˜‘Ý®ò1J$4d64ae44-0073-4f69-8c02-cefcb93ceb31
+m	java:S1066"+Replace this use of System.out by a logger.(¿©Ð“8˜‘Ý®ò1J$0ff0d46c-8e42-4387-bac4-b26929db31bd
+r	java:S1067"+Replace this use of System.out by a logger.(öÉ°µúÿÿÿÿ8˜‘Ý®ò1J$e222c056-f7df-4c0e-b416-04463e22fea1
+r	java:S1068"+Replace this use of System.out by a logger.(¸€à•øÿÿÿÿ8˜‘Ý®ò1J$8a2bd48c-f7b4-47b6-b280-53fdbf67a48a
+p
+java:S1068
+"-Remove this unused "isAvabaly" private field.(îÏ¾Ï8˜‘Ý®ò1J$fc1ace3d-c1e7-406f-aa7e-f65d6edef357

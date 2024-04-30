@@ -1,0 +1,9 @@
+
+¯
+java:S1319"lThe type of "libraryItems" should be an interface such as "List" rather than the implementation "ArrayList".(àå¬¦8Ä«œ¯ò1J$dda4cd83-0846-45e7-b417-b93dbaecab67
+›
+java:S1104"XMake libraryItems a static final constant or non-public and provide accessors if needed.(àå¬¦8Ì«œ¯ò1J$c31c43f3-3669-4b90-b950-04dd16444a3c
+m	java:S106"+Replace this use of System.out by a logger.(‡òî™8—ÔÍ®ò1J$7faf44df-03e2-465c-a2e3-195f177f2591
+m	java:S106"+Replace this use of System.out by a logger.(‡òî™8—ÔÍ®ò1J$d4a5338e-24d9-420a-9976-ef4a4e1c28a9
+†
+java:S6201#"CReplace this instanceof check and cast with 'instanceof Books book'(Íç÷Ä8§ÔÍ®ò1J$7556fee5-42c0-4cca-ba1d-ab9b3037c852

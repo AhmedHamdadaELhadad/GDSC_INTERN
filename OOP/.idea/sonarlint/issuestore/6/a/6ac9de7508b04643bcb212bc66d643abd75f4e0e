@@ -1,0 +1,19 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ôš¡‡üÿÿÿÿ8‰ÀÀ®ò1
+i	java:S101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(í°˜Ê8‰ÀÀ®ò1
+i	java:S101="MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êÙÇÎ8‰ÀÀ®ò1
+n	java:S101Y"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¹½¶üÿÿÿÿ8‰ÀÀ®ò1
+j	java:S101…"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¿ÉÔ8‰ÀÀ®ò1
+j
+java:S1223†"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8‰ÀÀ®ò1
+G	java:S106j"+Replace this use of System.out by a logger.(‡òî™8¸ÀÀ®ò1
+G	java:S106s"+Replace this use of System.out by a logger.(‡òî™8¸ÀÀ®ò1
+d
+java:S6201z"BReplace this instanceof check and cast with 'instanceof book book'(óªïÉúÿÿÿÿ8¸ÀÀ®ò1
+F	java:S106|"+Replace this use of System.out by a logger.(Ÿ¨½A8¸ÀÀ®ò1
+b
+java:S6201}"@Replace this instanceof check and cast with 'instanceof dvd dvd'(”øÕ†ÿÿÿÿÿ8¸ÀÀ®ò1
+G	java:S106"+Replace this use of System.out by a logger.(–×…Í8¸ÀÀ®ò1
+M	java:S106‘"+Replace this use of System.out by a logger.(‰úæ—ùÿÿÿÿ8ÈÀÀ®ò1
+H	java:S106™"+Replace this use of System.out by a logger.(§åÃÈ8ÈÀÀ®ò1
+G	java:S106 "+Replace this use of System.out by a logger.(ªùày8ÈÀÀ®ò1
