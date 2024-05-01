@@ -19,3 +19,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+E
+Exceptions/Count.java,6\1\614d8360a37a50743d389129a4d9d57d042dc3e0
+O
+Exceptions/solvetask/Count.java,8\6\86787146e37e97d7f32305c4a02a52f111f8958f
+P
+ Exceptions/solvetask/Lincoln.txt,f\a\fa37695c865f558aee39ab866ea2d646caddf99e
